@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(freqtrade backtesting:*)",
+      "Bash(freqtrade list-data:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
